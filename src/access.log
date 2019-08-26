@@ -1,0 +1,6 @@
+::1 - testuser [26/Aug/2019:11:01:23 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
+::1 - testuser [26/Aug/2019:11:45:29 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
+::1 - testuser [26/Aug/2019:11:45:51 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
+::1 - testuser [26/Aug/2019:11:45:53 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
+::1 - testuser [26/Aug/2019:11:45:54 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
+::1 - testuser [26/Aug/2019:11:45:55 +0000] "GET /api/shopping_centres/ HTTP/1.1" 200 91
